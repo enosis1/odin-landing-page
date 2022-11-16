@@ -127,13 +127,13 @@ li {
 }
 
 .fourth {
-	padding: 150px;
+	padding: 120px;
 }
 
 .fourth-container {
 	background: #3882F6;
 	display: flex;
-	padding: 30px 125px;
+	padding: 30px 95px;
 	justify-content: space-between;
 	border-radius: 5px;
 }
@@ -151,4 +151,18 @@ li {
 
 .ad-sign-up-button {
 	background: #3882F6;
+	border-color: white;
+	border-style: solid;
+	border-radius: 5px;
+	color: white;
+	padding: 5px 20px;
+	align-self: center;
+}
+
+.footer {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 30px;
+	color: white;
 }
