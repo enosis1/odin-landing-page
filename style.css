@@ -6,7 +6,7 @@ body {
 }
 
 img {
-	width: 100px;
+	width: 200px;
 	height: auto;
 	border-radius: 5px;
 	border-style: solid;
@@ -71,6 +71,7 @@ img {
 	display: flex;
 	justify-content: center;
 	gap: 52px;
+	align-items: center;
 }
 
 .title {
